@@ -1,4 +1,4 @@
-FROM vllm/vllm-openai:v0.9.2
+FROM vllm/vllm-openai:v0.10.1.1
 
 COPY start.sh /app/
 
